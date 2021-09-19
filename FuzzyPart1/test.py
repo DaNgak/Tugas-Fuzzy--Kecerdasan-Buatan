@@ -1,3 +1,6 @@
+# Nama  : Aria Pratama Effendi
+# NIM   : 2041720112
+# Kelas : TI-2F
 # qual_lo = fuzz.trimf(x_qual, [0, 5, 5])
 # qual_md = fuzz.trimf(x_qual, [5, 5, 10])
 # qual_hi = fuzz.trimf(x_qual, [2, 5, 8])

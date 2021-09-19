@@ -1,3 +1,6 @@
+# Nama  : Aria Pratama Effendi
+# NIM   : 2041720112
+# Kelas : TI-2F
 import numpy as np
 from numpy.lib.shape_base import row_stack
 import skfuzzy as fuzz
